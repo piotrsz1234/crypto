@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fence", "Fence\Fence.csproj", "{315080E5-2AAF-4D7A-9082-F3D77517FB65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixA", "MatrixA\MatrixA.csproj", "{B0DEEF71-6276-4995-BB65-B98E60DA3471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixB", "MatrixB\MatrixB.csproj", "{5AF7C232-C2FD-4B08-9FD0-59FD55F49350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{315080E5-2AAF-4D7A-9082-F3D77517FB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315080E5-2AAF-4D7A-9082-F3D77517FB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315080E5-2AAF-4D7A-9082-F3D77517FB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315080E5-2AAF-4D7A-9082-F3D77517FB65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DEEF71-6276-4995-BB65-B98E60DA3471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DEEF71-6276-4995-BB65-B98E60DA3471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DEEF71-6276-4995-BB65-B98E60DA3471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DEEF71-6276-4995-BB65-B98E60DA3471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF7C232-C2FD-4B08-9FD0-59FD55F49350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF7C232-C2FD-4B08-9FD0-59FD55F49350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF7C232-C2FD-4B08-9FD0-59FD55F49350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF7C232-C2FD-4B08-9FD0-59FD55F49350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
